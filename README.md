@@ -1,7 +1,7 @@
-<!-- 💖✨ URVASHI GITHUB PROFILE README ✨💖 -->
+
 
 <h1 align="center"> Ciao, I'm <span style="color:#ff66b2;">Urvashi</span> </h1>
-<h3 align="center">💻 Full-Stack MERN Developer | Ocean & Pink Theme Lover 🩵💖</h3>
+<h3 align="center">Full-Stack MERN Developer </h3>
 
 ---
 
