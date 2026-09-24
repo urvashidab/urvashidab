@@ -38,8 +38,8 @@ I believe in:
 ###  Connect With Me  
 <p align="center">
   
-  <a href="mailto:urvashi.ucoe@gmail.com"></a>
-  <a href="https://urvashidabgotra.vercel.app/"></a>
+  <a href="mailto:urvashi.ucoe@gmail.com">Email</a>
+  <a href="https://urvashidabgotra.vercel.app/">Portfolio</a>
 </p>
 
 ---
